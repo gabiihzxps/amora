@@ -14,5 +14,5 @@ let areaTriangulo= function(base,altura){
     return(base*altura)/2;
 }
 console.log(areaTriangulo)
-let nome= parseInt(prompt('2+2'))
+let nome= parseInt(prompt('qual a area do quadrado de lados iguais a 2?'))
 document.write(nome);
