@@ -1,5 +1,6 @@
-// let nomeUsuario='Hellen,Ana Saraiva';
+// let nomeUsuario='Hellen,Saraiva';
 // alert(nomeUsuario)
-function soma(numero1,numero2){
-    return numero1+numero2;
+function soma(num1,num2){
+    return num1+num2;
 }
+console.log (soma(1,2));
