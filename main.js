@@ -14,9 +14,10 @@ let areaTriangulo= function(base,altura){
     return(base*altura)/2;
 }
 console.log(areaTriangulo)
-let nome= parseInt(prompt('qual a média dos valores?'))
-document.write(nome);
-function soma(num3,num4,num5){
-    return soma/3
+let num1=parseInt(prompt('numero'));
+let num2=parseInt(prompt('numero'));
+let num3=parseInt(prompt('numero'));
+function media (x,y,z){
+    return (x+y+z 1/3);
 }
-console.log(nome)
+document.write(media(num1,num2,num3));
