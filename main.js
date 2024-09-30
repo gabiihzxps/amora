@@ -30,7 +30,7 @@ let estados=['Paraná','RJ','Acre','Alagoas','Amapá','Amazonas','Bahia','Ceará
 for(let i=0;i<estados.length;i++){
     console.log(estados[i]);
 }
-let idade=parseInt(promt('qual é a sua idade?'));
+let idade=parseInt(prompt('qual é a sua idade?'));
 if(idade>17){
     console.log('já pode dirigir');
 }
