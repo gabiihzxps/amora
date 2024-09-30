@@ -30,3 +30,10 @@ let estados=['Paraná','RJ','Acre','Alagoas','Amapá','Amazonas','Bahia','Ceará
 for(let i=0;i<estados.length;i++){
     console.log(estados[i]);
 }
+let idade=15;
+if(idade>17){
+    console.log('já pode dirigir');
+}
+else{
+    console.log('ilegal dirigir');
+}
