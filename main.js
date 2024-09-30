@@ -18,6 +18,6 @@ let num1=parseInt(prompt('numero'));
 let num2=parseInt(prompt('numero'));
 let num3=parseInt(prompt('numero'));
 function media (x,y,z){
-    return (x+y+z 1/3);
+    return (x+y+z 1)3;
 }
 document.write(media(num1,num2,num3));
