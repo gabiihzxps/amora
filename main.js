@@ -37,3 +37,4 @@ if(idade>17){
 else{
     console.log('ilegal dirigir');
 }
+let idade=parseInt(promt('qual é a sua idade?'));
