@@ -21,7 +21,7 @@
 //     return (x+y+z)/3;
 // }
 // document.write(media(num1,num2,num3));
-// let estados=['Paraná','RJ','Acre','Alagoas','Amapá','Amazonas','Bahia','Ceará','Espírito Santo','Goiás','Maranhão','Mato Grosso','Mato Grosso do Sul','Minas Geias','Pará','Paraíba','Pernambuco','Piauí','Rio Grando do Norte','Rio Grande do Sul','Rondônia','Roraima','Santa Catarina','São Paulo','Sergipe','Tocantins','Distrito Federal'];
+let estados=['Paraná','RJ','Acre','Alagoas','Amapá','Amazonas','Bahia','Ceará','Espírito Santo','Goiás','Maranhão','Mato Grosso','Mato Grosso do Sul','Minas Geias','Pará','Paraíba','Pernambuco','Piauí','Rio Grando do Norte','Rio Grande do Sul','Rondônia','Roraima','Santa Catarina','São Paulo','Sergipe','Tocantins','Distrito Federal'];
 // let i=0;
 // while (i<estados.length){
 //     console.log(i);console.log(estados[i]);
